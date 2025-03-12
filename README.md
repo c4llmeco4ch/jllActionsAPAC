@@ -1,5 +1,7 @@
 # GitHub Actions Fundamentals
 
+Hi :D
+
 Repo for the `GitHub Actions Fundamentals` training.
 
 ## 👉 Objectives
