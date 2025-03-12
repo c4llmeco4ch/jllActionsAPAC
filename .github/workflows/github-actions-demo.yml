@@ -17,4 +17,5 @@ jobs:
       - run: |
           echo 'The event that triggered this workflow was ${{ github.event_name }}'
           echo 'The branch this workflow is running against is ${{ github.ref }}'
-          tree
+      - uses: actions/checkout@v4
+      - run: tree
