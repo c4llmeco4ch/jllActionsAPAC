@@ -2,6 +2,8 @@
 
 Hi :D this will not cause the workflow to run
 
+But a PR might...
+
 Repo for the `GitHub Actions Fundamentals` training.
 
 ## 👉 Objectives
