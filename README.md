@@ -2,7 +2,7 @@
 
 Hi :D this will not cause the workflow to run
 
-We are showcasing what we can do here
+We are showcasing what we can do here (and how we can make the workflow not run...)
 
 Repo for the `GitHub Actions Fundamentals` training.
 
