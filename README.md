@@ -2,6 +2,8 @@
 
 Hi :D this will not cause the workflow to run
 
+We are showcasing what we can do here
+
 Repo for the `GitHub Actions Fundamentals` training.
 
 ## 👉 Objectives
