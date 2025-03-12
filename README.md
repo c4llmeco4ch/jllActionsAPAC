@@ -1,6 +1,6 @@
 # GitHub Actions Fundamentals
 
-Hi :D
+Hi :D this will not cause the workflow to run
 
 Repo for the `GitHub Actions Fundamentals` training.
 
