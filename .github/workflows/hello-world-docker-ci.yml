@@ -2,7 +2,7 @@ name: Container Action Test
 
 on:
   push:
-    paths: [ './hello-world-docker-action/*' ]
+    paths: [ hello-world-docker-action/* ]
   workflow_dispatch:
 
 jobs:
