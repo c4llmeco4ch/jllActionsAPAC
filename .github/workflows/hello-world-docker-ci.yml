@@ -12,6 +12,6 @@ jobs:
       - uses: actions/checkout@v4
       - uses: ./hello-world-docker-action
         with:
-          who-to-greet: 'Connor'
+          who-to-greet: "Connor"
         id: hw-action
-      - run: echo 'The action was run at ${{ steps.hw-action.outputs.time }}'
+      - run: echo "The action was run at ${{ steps.hw-action.outputs.time }}"
