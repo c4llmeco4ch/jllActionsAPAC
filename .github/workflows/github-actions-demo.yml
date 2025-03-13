@@ -41,7 +41,7 @@ jobs:
           sleep 15
   Prod:
     runs-on: ubuntu-latest
-    if: github.event.inputs.environment == 'Production'
+    if: github.event.inputs.Env == 'Production'
     needs: [ Test, Load-Test ]
     environment:
       name: Production
